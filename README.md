@@ -1,11 +1,13 @@
-### Hi there 👋
+**Hey! I'm Kirby, a first-year Computer Science Major at UCI!** 🐜🍴
 
-My name is Kirby Ammari. I am a first-year Computer Science Major at UCI!  
-Checkout my linkedin [here] and my resume.
+I am currently exploring web development along with back-end development to see where I fit best in computer science! 
+
+Checkout my [LinkedIn](https://www.linkedin.com/in/kammari/) and my [Resume](https://github.com/kirbster6/kirbster6/files/7835913/Kirby_Ammari_Resume_2021-2022.pdf).
 <!--
 **kirbster6/kirbster6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[Kirby_Ammari_Resume_2021-2022.pdf](https://github.com/kirbster6/kirbster6/files/7835913/Kirby_Ammari_Resume_2021-2022.pdf)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
