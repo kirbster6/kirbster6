@@ -1,4 +1,4 @@
-### **Hey! I'm Kirby, a first-year Computer Science Major at UCI!** 🐜🍴
+## **Hey! I'm Kirby, a first-year Computer Science Major at UCI!** 🐜🍴
 
 I am currently exploring web development along with back-end development to see where I fit best in computer science! 
 
