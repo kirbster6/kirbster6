@@ -1,6 +1,7 @@
-## **Hey! I'm Kirby, a Junior Computer Science Major at UCI!** 🐜🍴
+## **Hey! I'm Kirby, a Senior Computer Science Major at UCI!** 🐜🍴
 
-I am currently exploring web development (React, HTML, CSS) along with back-end development to see where I fit best in computer science!
+I'm currently an SDE Intern @ Amazon working on a full stack project with React, TypeScript, SQL, and AWS Services! Beyond that, I am experienced in Python, C++,
+C# for games, and other technologies. I am actively learning about machine learning, augmented reality, and mobile development. 
 
 I actively live my life through this motto:
 > "A computer once beat me at chess, but it was no match for me at kick boxing." - Emo Philips
